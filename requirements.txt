@@ -1,0 +1,6 @@
+pypdf
+spacy
+json
+os
+re
+sentence_transformers
